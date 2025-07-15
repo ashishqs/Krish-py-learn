@@ -15,3 +15,4 @@ def sum_up_to(count):
 
 
 print(f"{sum_up_to(5)}")
+print(f"{sum_up_to(10)}")
