@@ -14,4 +14,4 @@ def sum_up_to(count):
 
 
 
-print(f"{sum_up_to(147573756374737373737)}")
+print(f"{sum_up_to(5)}")
